@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781941023801",
+    "project_id": "kebab-ned",
+    "storage_bucket": "kebab-ned.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781941023801:android:8ab821ab185e178b4f59e8",
+        "android_client_info": {
+          "package_name": "com.example.kebab_ned"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781941023801-jf6o4cvcp0qfdt47rtijmdumfpmoei25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0k-Kkz1R5cfcsEvFV63KvDtlI6J_Nio4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781941023801-jf6o4cvcp0qfdt47rtijmdumfpmoei25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
