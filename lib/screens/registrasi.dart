@@ -113,9 +113,9 @@ class Registrasi extends StatelessWidget {
 
 Future<void> signOut() async {
   try {
-    await FirebaseAuth.instance.signOut();
+    FirebaseAuth.instance.signOut();
     Get.offAll(Registrasi());
-    ec.emailController.clear();
+    // ec.emailController.clear();
   } catch (e) {
     throw e;
   }
